@@ -4,5 +4,5 @@ I'm sure we're all very familiar with the squiggly red lines that appear under m
 implemented.
 
 
-This algorithm implementation were based on the following video:
+This algorithm implementation is based on the following video:
 https://www.youtube.com/watch?v=d-Eq6x1yssU
